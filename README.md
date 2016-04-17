@@ -6,4 +6,4 @@ These documents were created as material support for our contribution *Mapping t
 
 - v01. April, 2016. Loup Cellard & Everardo Reyes
 
-
+You can explore a [live version of these files](http://ereyes.github.io/Mapping-Interface-Politics/).
